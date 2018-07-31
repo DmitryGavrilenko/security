@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS all_user(
+  id SERIAL PRIMARY KEY ,
+  name VARCHAR(200),
+  password VARCHAR(200),
+  email VARCHAR(200)
+)
