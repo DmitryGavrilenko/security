@@ -20,7 +20,7 @@ public class MainController {
     private RoleRepository roleRepository;
 
     @Autowired
-    private PasswordEncoder passwordEncoder;
+    private PasswordEncoder passwordEncoderadasd;
 
     @Autowired
     private Register register;
